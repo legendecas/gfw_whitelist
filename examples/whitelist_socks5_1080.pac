@@ -293,7 +293,6 @@ var RULES = [
         ".snsfun.cc",
         ".snyu.com",
         ".soufunimg.com",
-        ".stackoverflow.com",
         ".staticsdo.com",
         ".synacast.com",
         ".tanx.com",
